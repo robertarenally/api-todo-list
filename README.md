@@ -67,7 +67,7 @@ Esse comando realiza as seguintes ações:
 Para executar os testes unitários da aplicação, siga os passos abaixo:
 
 1. Certifique-se de que o Maven está instalado.
-2. Execute os testes com o comando: 
+2. Dentro do repositório do projeto execute os testes com o comando: 
    ```
    mvn test
    ```
